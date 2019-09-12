@@ -3,8 +3,13 @@
     "description": "my project",
     "type": "library",
     "require": {
-        "php": ">=5.6.0",
-        "ext-openssl": "*"
+       
     },
-    "license": "MIT"
+    "license": "MIT",
+	"autoload": {
+        "psr-4": {
+            "Alipay\\": "aop/",
+			"AlipayLotus\\":"lotusphp_runtime/"
+        }
+    }
 }
