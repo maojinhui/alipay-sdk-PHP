@@ -1,6 +1,5 @@
 {
     "name": "maojinhui/alipay-sdk-php",
-    "description": "this is a  compser project to alipay",
     "type": "library",
     "require": {
         "php": ">=5.6.0"
