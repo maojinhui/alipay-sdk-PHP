@@ -1,17 +1,12 @@
 {
     "name": "maojinhui/alipay-sdk-php",
-    "description": "this is a test compser project",
+    "description": "this is a  compser project to alipay",
     "type": "library",
-    "authors": [
-        {
-            "name": "maojinhui",
-            "email": "maojinhui_work@163.com"
-        }
-    ],
-	"license": "MIT",
-    "minimum-stability": "dev",
     "require": {
-	   "php": ">=5.6.0",
-	}
-	
+        "php": "5.6.0"
+    },
+    "require-dev": {
+        "php": "5.6.0"
+    },
+    "license": "MIT"
 }
