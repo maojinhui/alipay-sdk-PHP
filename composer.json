@@ -8,6 +8,7 @@
             "email": "maojinhui_work@163.com"
         }
     ],
+	"license": "MIT",
     "minimum-stability": "dev",
     "require": {}
 }
