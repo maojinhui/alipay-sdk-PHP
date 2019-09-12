@@ -1,0 +1,13 @@
+{
+    "name": "maojinhui/alipay-sdk-php",
+    "description": "this is a test compser project",
+    "type": "library",
+    "authors": [
+        {
+            "name": "maojinhui",
+            "email": "maojinhui_work@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
