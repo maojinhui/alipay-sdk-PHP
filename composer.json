@@ -1,8 +1,0 @@
-{
-    "name": "maojinhui/alipay-sdk-php",
-    "type": "library",
-    "require": {
-        "php": ">=5.6.0"
-    },
-    "license": "MIT"
-}
